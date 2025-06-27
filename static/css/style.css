@@ -1,0 +1,9 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list-group-item {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #444;
+}
